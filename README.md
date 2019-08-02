@@ -1,4 +1,4 @@
-# MyFileHistory
+# My File History
 This is an archive of files that I have written for class.</br>
 It consists of files from two Java courses, one Visual Basic course, and one on HTML & CSS.</br>
 The second Java course was the advancement course for completing the first.</br>
